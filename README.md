@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats-sepia-mu-55.vercel.app/api/top-langs/?username=ModerRAS&layout=compact&theme=dracula)
 
-[![github stats](https://gh-stats.work/api?username=ModerRAS)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ModerRAS/ModerRAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
